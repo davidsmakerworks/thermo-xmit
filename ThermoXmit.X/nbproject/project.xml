@@ -16,6 +16,8 @@
                 <sourceRootElem>../drivers/DS18B20</sourceRootElem>
                 <sourceRootElem>../drivers/nRF24L01P</sourceRootElem>
                 <sourceRootElem>.</sourceRootElem>
+                <sourceRootElem>../../drivers/ds18b20</sourceRootElem>
+                <sourceRootElem>../../drivers/nrf24L01P</sourceRootElem>
             </sourceRootList>
             <confList>
                 <confElem>
